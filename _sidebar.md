@@ -20,6 +20,7 @@
     * [java.lang.Byte](./docs/JavaSourceCode/java_lang_Byte.md)
     * [java.lang.Double](./docs/JavaSourceCode/java_lang_Double.md)
     * [java.lang.Float](./docs/JavaSourceCode/java_lang_Float.md)
+    * [java.lang.Integer](./docs/JavaSourceCode/java_lang_Integer.md)
 
   * [java.util](./docs/JavaSourceCode/java源码阅读顺序.md?id=_2、javautil)
     * [java.util.Queue](./docs/JavaSourceCode/java_util_Queue.md)
@@ -28,17 +29,36 @@
   * [java关键字](./docs/JavaSourceCode/java源码阅读顺序.md?id=_12、java关键字)
     * [synchronized](./docs/JavaSourceCode/java关键字/synchronized.md)
     * [volatile](./docs/JavaSourceCOde/java关键字/volatile.md)
+    * [final](./docs/JavaSourceCOde/java关键字/final.md)
 
 * 剑指offer刷题
   * [no3数组中重复的数字](./docs/剑指offer刷题/No3_数组中重复的数字.md)
   * [no4二维数组中的查找](./docs/剑指offer刷题/No4_二维数组中的查找.md)
-    
-* 计算机基础
+  * [no5替换空格](./docs/剑指offer刷题/No5_替换空格.md)
+  * [no6从头到尾打印链表](./docs/剑指offer刷题/No6_从头到尾打印链表.md)
+
+* 设计模式
+
+  * [设计模式概论](./docs/设计模式/设计模式概论.md)
+  * [单例模式](./docs/设计模式/单例模式.md)
+  * [原型模式](./docs/设计模式/原型模式.md)
+  * [简单工厂模式](./docs/设计模式/简单工厂模式.md)
+  * [工厂方法模式](./docs/设计模式/工厂方法模式.md)
+  * [抽象工厂模式](./docs/设计模式/抽象工厂模式.md)
+  * [建造者模式](./docs/设计模式/建造者模式.md)
+  * [代理模式](./docs/设计模式/代理模式.md)
+
+* 计算机网络
 
   * [计算机网络](./docs/c-1计算机网络.md)
-  * [数据结构](./docs/c-2数据结构.md)
-  * [算法](./docs/c-3算法.md)
+  * [tcp三次握手与四次挥手](./docs/计算机网络/tcp三次握手与四次挥手.md)
+
+* 计算机操作系统
+
   * [操作系统](./docs/c-4操作系统.md)
 
-  
+* 数据结构与算法
+
+  * [数据结构](./docs/c-2数据结构.md)
+  * [算法](./docs/c-3算法.md)
 
